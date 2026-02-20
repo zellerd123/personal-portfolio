@@ -17,6 +17,10 @@
   --radius: 0.5rem;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 body {
   font-feature-settings: "rlig" 1, "calt" 1;
 }
